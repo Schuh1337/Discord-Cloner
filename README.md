@@ -1,6 +1,9 @@
 # Discord-Tool - Server Cloner
 ![image](https://schuh.wtf/resources/images/cloner.png)
 
+didnt put much effort in this, was bored and wanted to push something new.
+maybe quality updates in the future :p
+
 > [!NOTE]
 > *! Some channels require the server to be a community server to be created.
 > Fully request based<br>
