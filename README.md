@@ -2,6 +2,7 @@
 ![image](https://schuh.wtf/resources/images/cloner.png)
 
 > [!NOTE]
+> *! Some channels require the server to be a community server to be created.
 > Fully request based<br>
 > Supports: Windows 10, 11 [Other Versions untested]<br>
 > Make sure that you have `VirtualTerminalLevel` set to `1` for the best experience. --> [Tutorial](https://www.youtube.com/watch?v=HeJOyEw3RtM)<br>
